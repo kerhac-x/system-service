@@ -1,0 +1,10 @@
+deb http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary main restricted universe multiverse
+deb http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-security main restricted universe multiverse
+deb http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-updates main restricted universe multiverse
+deb http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-proposed main restricted universe multiverse
+deb http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-backports main restricted universe multiverse
+deb-src http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary main restricted universe multiverse
+deb-src http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-security main restricted universe multiverse
+deb-src http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-updates main restricted universe multiverse
+deb-src http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-proposed main restricted universe multiverse
+deb-src http://mirrors.ustc.edu.cn/ubuntu-old-releases/ubuntu/ hoary-backports main restricted universe multiverse
